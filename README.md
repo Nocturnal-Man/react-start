@@ -1,4 +1,8 @@
 # react-start
-Create the React-native app by looking at the Nomad Corder.\n
-Reference:"https://academy.nomadcoders.co/"\n
+<hr/>
+**Create the React-native app by looking at the Nomad Corder.**
+
+<hr/>
+Reference:"https://academy.nomadcoders.co/"
+
 React-naive start at Android
